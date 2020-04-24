@@ -1,0 +1,6 @@
+print("Hello, world! Who are you?")
+name = input()
+print(name, ", enter two numbers please:\n")
+x = int(input())
+y = int(input())
+print(f'{x} * {y} = {x*y}')
